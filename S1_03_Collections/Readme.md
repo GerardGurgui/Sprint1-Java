@@ -27,7 +27,7 @@ Emplea los objetos ListIterator para leer los elementos de la primera lista e in
   
   
   
-  ## Nivel 2:
+## Nivel 2:
   
   * Ejercicio 1: 
   
