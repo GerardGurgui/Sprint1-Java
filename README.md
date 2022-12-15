@@ -1,4 +1,4 @@
-# Sprint1-Java
+# Sprint 1: Java
 
 ## Profundizar en las librerías fundamentales de Java
 
