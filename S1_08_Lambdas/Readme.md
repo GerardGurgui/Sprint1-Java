@@ -26,16 +26,16 @@
  
  * Ejercicio 6:
  
- Crea una lista con números y cadenas de texto y ordena la lista con las cadenas de más corta a más larga.
+	 Crea una lista con números y cadenas de texto y ordena la lista con las cadenas de más corta a más larga.
  
  * Ejercicio 7:
  
- Con la lista del ejercicio anterior, ahora ordénala al revés, de cadena más larga a más corta.
+	 Con la lista del ejercicio anterior, ahora ordénala al revés, de cadena más larga a más corta.
  
  * Ejercicio 8:
  
  
-Crea una Functional Interface que contenga un método llamado reverse(). Este método debe recibir y debe devolver un String. En el main() de la clase principal, inyecta a la interfaz creada mediante una lambda, el cuerpo del método, de modo que devuelva la misma cadena que recibe como parámetro pero al revés. Invoca la instancia de la interfaz pasándole una cadena y comprueba si el resultado es correcto.
+	Crea una Functional Interface que contenga un método llamado reverse(). Este método debe recibir y debe devolver un String. En el main() de la clase principal, inyecta a la interfaz creada mediante una lambda, el cuerpo del método, de modo que devuelva la misma cadena que recibe como parámetro pero al revés. Invoca la instancia de la interfaz pasándole una cadena y comprueba si el resultado es correcto.
 
 
 
